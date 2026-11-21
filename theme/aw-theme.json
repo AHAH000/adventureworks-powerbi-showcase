@@ -1,0 +1,10 @@
+{
+  "name": "AW Showcase",
+  "dataColors": ["#0F4C5C", "#2A9D8F", "#E9C46A", "#F4A261", "#E76F51", "#6C757D", "#8AB17D", "#264653"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2933",
+  "tableAccent": "#0F4C5C",
+  "good": "#2E9E6B",
+  "bad": "#D64545",
+  "neutral": "#E9C46A"
+}
